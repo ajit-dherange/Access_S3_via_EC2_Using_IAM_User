@@ -1,4 +1,4 @@
-# Access S3 via EC2 with Full access – By using IAM User
+# Access S3 bucket via EC2 Instance with Full access – By using IAM User
 
 ## Create New S3 Bucket
 
