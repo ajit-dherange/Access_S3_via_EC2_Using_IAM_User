@@ -4,9 +4,9 @@
 
 Click “S3” service
 
-Click “Create bucket”.
-
 Type jjkkexpress.online
+
+Click “Create bucket”.
 
 Bucket has been successfully created.
 
@@ -29,6 +29,8 @@ Select S3 Full Access policy
 
 Click “Create user”.
 
+Select User ppp
+
 Create Access Key
 
 Select CLI 
@@ -44,7 +46,7 @@ Select “Amazon Linux”.
 
 Select “t2.micro”.
 
-Select VPC and Subnet, then select IAM role as “S3AccesswithEC2”.
+Select VPC and Subnet, then select IAM role as “S3AccesswithEC2”. (can lease as default)
 
 Type Name as Linux Instance.
 
