@@ -6,28 +6,28 @@ Click `S3` service
 
 Type jjkkexpress.online
 
-Click “Create bucket”.
+Click `Create bucke` 
 
 Bucket has been successfully created.
 
 
 ## Create New User
 
-Click “IAM” service
+Click `IAM` service
 
-Click “Users”.
+Click `Users` 
 
-Click “Add user”.
+Click `Add Users` 
 
 Type user name ppp
 
-Click “Next”.
+Click `Next`
 
 Select attach existing policies directly and provide AmazonS3 Full access.
 
 Select S3 Full Access policy
 
-Click “Create user”.
+Click `Create Users`.
 
 Select User ppp
 
@@ -40,7 +40,7 @@ Create Access Key
 
 ## Create EC2 Instance
 
-Click “Launch instance”.
+Click `Launch Instance`
 
 Select “Amazon Linux”.
 
