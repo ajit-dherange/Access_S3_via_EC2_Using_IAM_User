@@ -60,7 +60,7 @@ Click “View instances”.
 
 Can use below script in user-data (optional)
 
-```ruby
+```
 #! /bin/bash -ex
 yum update -y
 yum install -y httpd
@@ -83,21 +83,21 @@ Type sudo -i
 
 Login to aws configure mode by using access key ID and secret access key.  You must type the region to configure.
 
-Type aws s3 ls command to list the bucket.
+Type "aws s3 ls" command to list the bucket.
 
-Type aws s3 rb s3://jjkkexpress.online
+Type "aws s3 rb s3://jjkkexpress.online"
 
 Successfully removed the bucket.
 
-Type aws s3 mb s3://jjkkexpress2.online
+Type "aws s3 mb s3://jjkkexpress.online"
 
 Successfully created the bucket.
 
-Type Aws s3 ls
+Type "aws s3 ls"
 
 Bucket details listed successfully.
 
-aws s3 cp f1.txt s3://jjkkexpress2.online
+aws s3 cp f1.txt s3://jjkkexpress.online
 
-upload: ./f1.txt to s3://jjkkexpress2.online/f1.txt
+upload: ./f1.txt to s3://jjkkexpress.online/f1.txt
 
