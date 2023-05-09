@@ -2,7 +2,7 @@
 
 ## Create New S3 Bucket
 
-Click 'S3' service
+Click `S3` service
 
 Type jjkkexpress.online
 
